@@ -1,2 +1,2 @@
 # Excel_Simulation_Project
-Predicted the Quarterly Business using Microsoft Excel 
+A Project on predicting the Quarterly Business using Microsoft Excel 
