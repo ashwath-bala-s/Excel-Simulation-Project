@@ -1,4 +1,4 @@
 # Excel_Simulation_Project
-Project Description - Prediction of the Quarterly Business using Microsoft Excel.
+Performed a simulation model using Solver tool which automatically calculates the factors affecting the total business based on various constraints.
 
-Skill - Microsoft Excel
+Skills: Mathematics · Microsoft Excel · Analytical Skills
