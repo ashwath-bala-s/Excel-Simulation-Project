@@ -1,4 +1,4 @@
-# Excel_Simulation_Project
+# Excel Simulation Project
 **Project Description:**
 
 Performed a simulation model using Solver tool which automatically calculates the factors affecting the total business based on various constraints.
