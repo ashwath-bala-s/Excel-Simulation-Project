@@ -1,4 +1,4 @@
-![image](https://github.com/ashwath-bala-s/Excel-Simulation-Project/assets/109901854/b8dfdc73-1994-4112-9491-faf80c0483ac)# Excel Simulation Project
+# Excel Simulation Project
 
 **Introduction:**
 
@@ -14,9 +14,10 @@ The Dataset used for this project is an excel file containing various informatio
 
 **Project Description:**
 
-•	Performed a simulation model using Solver tool which automatically calculates the factors affecting the total business based on various constraints.
+Performed a simulation model using Solver tool which automatically calculates the factors affecting the total business based on various constraints.
 
 **Observation:**
-The Total Business predicted for the year 2016 and 2017 are 1589.32 and 1700 respectively
+
+•	The Total Business predicted for the year 2016 and 2017 are 1589.32 and 1700 respectively
 
 **Skills:** Mathematics · Microsoft Excel · Analytical Skills
